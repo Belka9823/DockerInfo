@@ -79,7 +79,7 @@ networks:
 
 volumes:
   db_data:
-```yaml
+```
 
 ## 6. Жизненный цикл и продвинутая отладка (Cheat Sheet)
 
